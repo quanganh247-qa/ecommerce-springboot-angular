@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ngx-stripe": "^17.2.0"
+  }
+}
